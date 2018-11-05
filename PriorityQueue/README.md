@@ -10,8 +10,9 @@ Use the class PriorityQueue to build a processor scheduler that receives multipl
 You project should contain only 2 classes:
 Class: Process
 This class contains 2 data members:
-• ID - sequential number (first object id=1, second object id=2,..etc)
-• Priority - random number from 1 to 100 (higher number = higher priority)
+
+- ID sequential number (first object id=1, second object id=2,..etc)
+- Priority - random number from 1 to 100 (higher number = higher priority)
 
 Hint 1: You can implement an object counter using a static data member
 
